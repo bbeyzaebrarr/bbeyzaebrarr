@@ -1,10 +1,10 @@
 ## Merhaba, Ben Beyza!
 
-👩🏻‍🎓 Sakarya Uygulamalı Bilimler Üniversitesi’nde Bulut Bilişim Operatörlüğü bölümünde okuyorum.<br/>
-👩🏻‍💻 Bulut bilişim ve yazılım geliştirme üzerine yolculuğumu ve öğrendiklerimi paylaşıyorum.<br/>
-🎨 Web programlama, kullanıcı deneyimi (UX/UI) ve yazılım projeleri üzerine içerikler üretiyorum.<br/>
-🌷 Dijital dünyada öğrendiklerimi açıkça paylaşarak gelişmeye çalışıyorum.<br/>
-🌟 Eğlenceli bir bilgi: Liseyi bölüm birincisi olarak bitirdim ve teknolojiyle ilgili verimlilik araçlarını keşfetmeyi çok seviyorum!<br/>
+👩🏻‍🎓 I’m currently studying Cloud Computing Operator Program at Sakarya University of Applied Sciences.<br/>
+👩🏻‍💻 I have experience with HTML5, CSS3, and basic JavaScript from high school. I’ve also explored mobile app development with Swift.<br/>
+☁️ I’m passionate about web programming, UX/UI design, and software projects. I’ve designed several websites using Figma and have a brief background with Adobe XD.<br/>
+🌷 Actively learning AWS, Docker, Kubernetes, and MSSQL. Also improving my skills in Python and C#.<br/>
+🌟 Fun fact: I graduated high school as the top student in my department and love discovering productivity tools!<br/>
 
 
 [![Beyza's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bbeyzaebrarr&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/bbeyzaebrarr/github-readme-stats#gh-dark-mode-only)
