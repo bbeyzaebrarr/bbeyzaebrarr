@@ -1,8 +1,8 @@
 ## Merhaba, Ben Beyza!
 
 👩🏻‍🎓 I’m currently studying Cloud Computing Operator Program at Sakarya University of Applied Sciences.<br/>
-👩🏻‍💻 I have experience with HTML5, CSS3, and basic JavaScript from high school. I’ve also explored mobile app development with Swift.<br/>
-☁️ I’m passionate about web programming, UX/UI design, and software projects. I’ve designed several websites using Figma and have a brief background with Adobe XD.<br/>
+👩🏻‍💻 I have experience with HTML5, CSS3, and basic JavaScript from high school.<br/>I’ve also explored mobile app development with Swift.<br/>
+☁️ I’m passionate about web programming, UX/UI design, and software projects.<br/>I’ve designed several websites using Figma and have a brief background with Adobe XD.<br/>
 🌷 Actively learning AWS, Docker, Kubernetes, and MSSQL. Also improving my skills in Python and C#.<br/>
 🌟 Fun fact: I graduated high school as the top student in my department and love discovering productivity tools!<br/>
 
