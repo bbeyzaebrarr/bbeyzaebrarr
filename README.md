@@ -33,5 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-** [![Beyza's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bbeyzaebrarr&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/bbeyzaebrarr/github-readme-stats#gh-dark-mode-only)
+
