@@ -8,7 +8,6 @@
 
 
 
-[![Beyza's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bbeyzaebrarr&show_icons=true&theme=synthwave#gh-light-mode-only)](https://github.com/bbeyzaebrarr/github-readme-stats#gh-light-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbeyzaebrarr&layout=compact&theme=tokyonight)
 <!--
@@ -33,3 +32,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![Beyza's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bbeyzaebrarr&show_icons=true&theme=synthwave#gh-light-mode-only)](https://github.com/bbeyzaebrarr/github-readme-stats#gh-light-mode-only)
