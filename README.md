@@ -1,3 +1,34 @@
+# Hi there, I'm Beyza! 👋
+
+🎓 **Cloud Computing Technologies** & **Information Security Technologies** Student  
+📱 **Mobile Application Developer Intern**
+
+---
+
+### 🚀 About Me
+* 💻 Currently focusing on cross-platform **Mobile Application Development**.
+* ☁️ Passionate about **Cloud Infrastructure** (AWS, Docker, Kubernetes) and **System Security**.
+* 🎯 Aiming to build secure, scalable, and user-centric digital experiences by bridging the gap between Mobile Development, Cloud, and Security.
+* 🎨 Interested in UI/UX design, prototyping, and modern application architectures.
+
+---
+
+### 🛠️ Tech Stack & Tools
+* **Mobile:** Cross-Platform Mobile Development
+* **Cloud & DevOps:** AWS, Docker, Kubernetes, Cloudflare
+* **Databases:** PostgreSQL, MSSQL, MongoDB
+* **Languages & Core:** Python, C#, JavaScript, SQL
+* **Design & Tools:** Figma, Git, GitHub
+
+---
+
+📫 **Connect with me:**
+[LinkedIn](www.linkedin.com/in/beyzaebrarergun) | [Email](mailto:bbeyzaebrarr@gmail.com)
+
+
+
+<!--
+
 ## Merhaba, Ben Beyza!
 
 👩🏻‍🎓 I’m currently studying Cloud Computing Operator Program at Sakarya University of Applied Sciences.<br/>
@@ -10,7 +41,6 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbeyzaebrarr&layout=compact&theme=tokyonight)
-<!--
 **bbeyzaebrarr/bbeyzaebrarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  [![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbeyzaebrarr)](https://github.com/bbeyzaebrarr/github-readme-stats)
 ![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbeyzaebrarr&hide=contribs,prs)
